@@ -1,3 +1,4 @@
+import { mostrarAlerta } from './funciones.js';
 
 (function() {
     const formulario = document.querySelector('#formulario');
@@ -19,7 +20,7 @@
         }
 
         if(validar(cliente)) {
-            console.log('todos los campos son obligar=torios')
+            mostrarAlerta('todos los campos son obligar=torios')
             return
         }
 
