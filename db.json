@@ -1,46 +1,11 @@
 {
   "clientes": [
     {
-      "nombre": "Juan NUEVO!",
-      "email": "correo2@correo.com",
-      "telefono": "12",
-      "empresa": "12212",
-      "id": "26"
-    },
-    {
-      "id": "4e1a",
+      "id": "134a",
       "nombre": "daniela",
       "email": "danielasilvacastillo163@gmail.com",
       "telefono": "04143891211",
-      "empresa": "sddasdasd"
-    },
-    {
-      "id": "65dc",
-      "nombre": "jose",
-      "email": "admin@example.com",
-      "telefono": "798746546563",
-      "empresa": "sddasdasd"
-    },
-    {
-      "id": "23b8",
-      "nombre": "daniela",
-      "email": "danielasilvacastillo163@gmail.com",
-      "telefono": "04143891211",
-      "empresa": "sddasdasd"
-    },
-    {
-      "id": "70d6",
-      "nombre": "daniela",
-      "email": "danielasilvacastillo163@gmail.com",
-      "telefono": "04143891211",
-      "empresa": "sddasdasd"
-    },
-    {
-      "id": "3abb",
-      "nombre": "xiomara",
-      "email": "g@gmail.com",
-      "telefono": "15236885236",
-      "empresa": "sdadsasdasd"
+      "empresa": "QWER"
     }
   ]
 }
